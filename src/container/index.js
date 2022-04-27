@@ -1,0 +1,6 @@
+export { default as HeroSection } from "./herosection/HeroSection"
+export { default as StepsToContribute } from "./steps/StepsToContribute"
+export { default as Priority } from "./priority/Priority"
+export { default as FAQS } from "./faqs/FAQS"
+export { default as Cluster } from "./cluster/Cluster"
+export { default as Signup } from "./signup/Signup"
